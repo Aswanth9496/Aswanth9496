@@ -1,26 +1,53 @@
-# 👋 Hi, I'm Aswanth!  
+<h1 align="center">Hi 👋, I'm Aswanth C</h1>
+<h3 align="center">Full-Stack Developer | MERN & Next.js Enthusiast</h3>
 
-💫 About Me
-Full-stack developer specializing in MERN . I build scalable, user-centric web applications with real-time capabilities.
-Business background gives me strong analytical and problem-solving skills — from banking sector preparation to quantitative reasoning.
-I've learned by building real projects — e-commerce solutions, and real-time communication systems.
-I'm passionate about bridging mathematics with technology — whether it's optimizing algorithms or designing efficient system architectures.
-Always coding, always improving.
+---
 
-🛠️ Tech Stack
-Languages & Core Python JavaScript C++ HTML5 CSS3
+### 💫 About Me  
+I’m a **Full-Stack Developer** specializing in the **MERN stack** and **Next.js**, building scalable and user-focused web applications with real-time capabilities.  
 
-Backend & APIs Django Django REST JWT WebSocket Celery
+My **business background** sharpens my analytical and problem-solving approach — from **banking prep** to **quantitative reasoning**, I thrive on solving complex challenges through technology.  
 
-Frontend & UI React Redux TailwindCSS Bootstrap
+I've learned by **building real-world projects** — from **e-commerce platforms** to **real-time communication systems**.  
+Currently, I’m exploring ways to bridge **mathematics and software engineering**, optimizing algorithms and designing efficient architectures.  
 
-Databases & Caching PostgreSQL MongoDB MySQL Redis
+💻 *Always coding. Always improving.*
 
-Cloud & DevOps AWS Firebase Nginx Git
+---
 
-Tools & Design Figma Postman Cloudinary
+### 🛠️ Tech Stack  
 
-## 📫 How to Reach Me  
-- Email: aswanthgovindan@gmail.com
-- LinkedIn: [Aswanth C](https://www.linkedin.com/in/aswanth-c/)  
-- GitHub: [Aswanth9496](https://github.com/Aswanth9496)  
+#### ⚛️ Frontend  
+- **React.js** | **Next.js** | **Redux** | **TailwindCSS** | **Bootstrap**
+
+#### 🧩 Backend  
+- **Node.js** | **Express.js** | **REST APIs** | **JWT Auth** | **WebSockets**
+
+#### 🗄️ Databases & Caching  
+- **MongoDB** | **PostgreSQL** | **MySQL** | **Redis**
+
+#### ☁️ Cloud & DevOps  
+- **AWS** | **Firebase** | **Nginx** | **Git & GitHub**
+
+#### 🧰 Tools & Design  
+- **Figma** | **Postman** | **Cloudinary**  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswanth9496&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswanth9496&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 📫 Connect With Me  
+- 📧 **[aswanthgovindan@gmail.com](mailto:aswanthgovindan@gmail.com)**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aswanth-c/)  
+- 💻 [GitHub](https://github.com/Aswanth9496)  
+
+---
+
+⭐ *“Code. Learn. Iterate. Repeat.”*
